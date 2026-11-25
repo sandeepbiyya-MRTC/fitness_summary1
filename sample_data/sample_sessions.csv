@@ -1,0 +1,41 @@
+id,date,activity,duration_min,distance_km,calories,notes
+1,2026-10-25,Cycling,118,33.81,1032,sample
+2,2026-10-25,Hiking,105,9.06,735,sample
+3,2026-10-25,Running,35,5.65,368,sample
+4,2026-10-25,Walking,61,4.3,249,sample
+5,2026-10-28,Walking,69,4.88,282,sample
+6,2026-10-29,Hiking,144,10.33,1008,sample
+7,2026-10-29,Swimming,24,0.74,224,sample
+8,2026-10-30,Cycling,66,16.85,578,sample
+9,2026-11-01,Yoga,43,0.0,125,sample
+10,2026-11-02,Swimming,57,2.14,532,sample
+11,2026-11-03,Cycling,79,26.45,691,sample
+12,2026-11-04,Walking,57,4.17,233,sample
+13,2026-11-05,Gym,65,0.0,379,sample
+14,2026-11-05,Hiking,184,15.84,1288,sample
+15,2026-11-05,Yoga,47,0.0,137,sample
+16,2026-11-06,Swimming,29,0.98,271,sample
+17,2026-11-07,Swimming,23,0.7,215,sample
+18,2026-11-07,Walking,60,4.98,245,sample
+19,2026-11-08,Running,47,8.69,494,sample
+20,2026-11-08,Walking,35,2.58,143,sample
+21,2026-11-10,Cycling,61,19.92,534,sample
+22,2026-11-11,Hiking,239,19.3,1673,sample
+23,2026-11-11,Walking,61,4.06,249,sample
+24,2026-11-13,Hiking,136,9.98,952,sample
+25,2026-11-14,Running,34,4.84,357,sample
+26,2026-11-16,Running,29,4.23,304,sample
+27,2026-11-18,Walking,54,3.87,220,sample
+28,2026-11-20,Hiking,206,14.95,1442,sample
+29,2026-11-21,Cycling,42,12.78,368,sample
+30,2026-11-21,Cycling,87,24.44,761,sample
+31,2026-11-21,Cycling,90,28.6,788,sample
+32,2026-11-21,Running,51,8.3,536,sample
+33,2026-11-22,Cycling,49,14.24,429,sample
+34,2026-11-22,Running,45,0,400,edge: zero distance
+35,2026-11-22,Running,52,9.84,546,sample
+36,2026-11-22,Walking,59,3.89,241,sample
+37,2026-11-22,Yoga,50,0.0,146,sample
+38,2026-11-23,Walking,30,15,120,edge: unrealistic speed
+39,2026-11-25,Hiking,600,50,2900,boundary: max duration
+40,2026-11-25,Walking,1,0,4,boundary: min duration

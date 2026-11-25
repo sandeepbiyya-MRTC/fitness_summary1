@@ -1,0 +1,1 @@
+nicegui>=1.4\nmatplotlib>=3.7\npytest>=7.0\n

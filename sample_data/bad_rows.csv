@@ -1,0 +1,5 @@
+date,activity,duration_min,distance_km,calories,notes
+2026-01-05,Walking,40,3.2,150,ok
+2099-01-01,Walking,30,2,100,future date
+2026-01-06,Dancing,30,0,100,bad activity
+2026-01-07,Running,abc,5,300,bad duration

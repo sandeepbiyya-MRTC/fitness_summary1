@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-25",
+    "activity": "Cycling",
+    "duration_min": 118,
+    "distance_km": 33.81,
+    "calories": 1032,
+    "notes": "sample"
+  },
+  {
+    "id": 2,
+    "date": "2026-10-25",
+    "activity": "Hiking",
+    "duration_min": 105,
+    "distance_km": 9.06,
+    "calories": 735,
+    "notes": "sample"
+  },
+  {
+    "id": 3,
+    "date": "2026-10-25",
+    "activity": "Running",
+    "duration_min": 35,
+    "distance_km": 5.65,
+    "calories": 368,
+    "notes": "sample"
+  },
+  {
+    "id": 4,
+    "date": "2026-10-25",
+    "activity": "Walking",
+    "duration_min": 61,
+    "distance_km": 4.3,
+    "calories": 249,
+    "notes": "sample"
+  },
+  {
+    "id": 5,
+    "date": "2026-10-28",
+    "activity": "Walking",
+    "duration_min": 69,
+    "distance_km": 4.88,
+    "calories": 282,
+    "notes": "sample"
+  },
+  {
+    "id": 6,
+    "date": "2026-10-29",
+    "activity": "Hiking",
+    "duration_min": 144,
+    "distance_km": 10.33,
+    "calories": 1008,
+    "notes": "sample"
+  },
+  {
+    "id": 7,
+    "date": "2026-10-29",
+    "activity": "Swimming",
+    "duration_min": 24,
+    "distance_km": 0.74,
+    "calories": 224,
+    "notes": "sample"
+  },
+  {
+    "id": 8,
+    "date": "2026-10-30",
+    "activity": "Cycling",
+    "duration_min": 66,
+    "distance_km": 16.85,
+    "calories": 578,
+    "notes": "sample"
+  },
+  {
+    "id": 9,
+    "date": "2026-11-01",
+    "activity": "Yoga",
+    "duration_min": 43,
+    "distance_km": 0.0,
+    "calories": 125,
+    "notes": "sample"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-02",
+    "activity": "Swimming",
+    "duration_min": 57,
+    "distance_km": 2.14,
+    "calories": 532,
+    "notes": "sample"
+  },
+  {
+    "id": 11,
+    "date": "2026-11-03",
+    "activity": "Cycling",
+    "duration_min": 79,
+    "distance_km": 26.45,
+    "calories": 691,
+    "notes": "sample"
+  },
+  {
+    "id": 12,
+    "date": "2026-11-04",
+    "activity": "Walking",
+    "duration_min": 57,
+    "distance_km": 4.17,
+    "calories": 233,
+    "notes": "sample"
+  },
+  {
+    "id": 13,
+    "date": "2026-11-05",
+    "activity": "Gym",
+    "duration_min": 65,
+    "distance_km": 0.0,
+    "calories": 379,
+    "notes": "sample"
+  },
+  {
+    "id": 14,
+    "date": "2026-11-05",
+    "activity": "Hiking",
+    "duration_min": 184,
+    "distance_km": 15.84,
+    "calories": 1288,
+    "notes": "sample"
+  },
+  {
+    "id": 15,
+    "date": "2026-11-05",
+    "activity": "Yoga",
+    "duration_min": 47,
+    "distance_km": 0.0,
+    "calories": 137,
+    "notes": "sample"
+  },
+  {
+    "id": 16,
+    "date": "2026-11-06",
+    "activity": "Swimming",
+    "duration_min": 29,
+    "distance_km": 0.98,
+    "calories": 271,
+    "notes": "sample"
+  },
+  {
+    "id": 17,
+    "date": "2026-11-07",
+    "activity": "Swimming",
+    "duration_min": 23,
+    "distance_km": 0.7,
+    "calories": 215,
+    "notes": "sample"
+  },
+  {
+    "id": 18,
+    "date": "2026-11-07",
+    "activity": "Walking",
+    "duration_min": 60,
+    "distance_km": 4.98,
+    "calories": 245,
+    "notes": "sample"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-08",
+    "activity": "Running",
+    "duration_min": 47,
+    "distance_km": 8.69,
+    "calories": 494,
+    "notes": "sample"
+  },
+  {
+    "id": 20,
+    "date": "2026-11-08",
+    "activity": "Walking",
+    "duration_min": 35,
+    "distance_km": 2.58,
+    "calories": 143,
+    "notes": "sample"
+  },
+  {
+    "id": 21,
+    "date": "2026-11-10",
+    "activity": "Cycling",
+    "duration_min": 61,
+    "distance_km": 19.92,
+    "calories": 534,
+    "notes": "sample"
+  },
+  {
+    "id": 22,
+    "date": "2026-11-11",
+    "activity": "Hiking",
+    "duration_min": 239,
+    "distance_km": 19.3,
+    "calories": 1673,
+    "notes": "sample"
+  },
+  {
+    "id": 23,
+    "date": "2026-11-11",
+    "activity": "Walking",
+    "duration_min": 61,
+    "distance_km": 4.06,
+    "calories": 249,
+    "notes": "sample"
+  },
+  {
+    "id": 24,
+    "date": "2026-11-13",
+    "activity": "Hiking",
+    "duration_min": 136,
+    "distance_km": 9.98,
+    "calories": 952,
+    "notes": "sample"
+  },
+  {
+    "id": 25,
+    "date": "2026-11-14",
+    "activity": "Running",
+    "duration_min": 34,
+    "distance_km": 4.84,
+    "calories": 357,
+    "notes": "sample"
+  },
+  {
+    "id": 26,
+    "date": "2026-11-16",
+    "activity": "Running",
+    "duration_min": 29,
+    "distance_km": 4.23,
+    "calories": 304,
+    "notes": "sample"
+  },
+  {
+    "id": 27,
+    "date": "2026-11-18",
+    "activity": "Walking",
+    "duration_min": 54,
+    "distance_km": 3.87,
+    "calories": 220,
+    "notes": "sample"
+  },
+  {
+    "id": 28,
+    "date": "2026-11-20",
+    "activity": "Hiking",
+    "duration_min": 206,
+    "distance_km": 14.95,
+    "calories": 1442,
+    "notes": "sample"
+  },
+  {
+    "id": 29,
+    "date": "2026-11-21",
+    "activity": "Cycling",
+    "duration_min": 42,
+    "distance_km": 12.78,
+    "calories": 368,
+    "notes": "sample"
+  },
+  {
+    "id": 30,
+    "date": "2026-11-21",
+    "activity": "Cycling",
+    "duration_min": 87,
+    "distance_km": 24.44,
+    "calories": 761,
+    "notes": "sample"
+  },
+  {
+    "id": 31,
+    "date": "2026-11-21",
+    "activity": "Cycling",
+    "duration_min": 90,
+    "distance_km": 28.6,
+    "calories": 788,
+    "notes": "sample"
+  },
+  {
+    "id": 32,
+    "date": "2026-11-21",
+    "activity": "Running",
+    "duration_min": 51,
+    "distance_km": 8.3,
+    "calories": 536,
+    "notes": "sample"
+  },
+  {
+    "id": 33,
+    "date": "2026-11-22",
+    "activity": "Cycling",
+    "duration_min": 49,
+    "distance_km": 14.24,
+    "calories": 429,
+    "notes": "sample"
+  },
+  {
+    "id": 34,
+    "date": "2026-11-22",
+    "activity": "Running",
+    "duration_min": 45,
+    "distance_km": 0,
+    "calories": 400,
+    "notes": "edge: zero distance"
+  },
+  {
+    "id": 35,
+    "date": "2026-11-22",
+    "activity": "Running",
+    "duration_min": 52,
+    "distance_km": 9.84,
+    "calories": 546,
+    "notes": "sample"
+  },
+  {
+    "id": 36,
+    "date": "2026-11-22",
+    "activity": "Walking",
+    "duration_min": 59,
+    "distance_km": 3.89,
+    "calories": 241,
+    "notes": "sample"
+  },
+  {
+    "id": 37,
+    "date": "2026-11-22",
+    "activity": "Yoga",
+    "duration_min": 50,
+    "distance_km": 0.0,
+    "calories": 146,
+    "notes": "sample"
+  },
+  {
+    "id": 38,
+    "date": "2026-11-23",
+    "activity": "Walking",
+    "duration_min": 30,
+    "distance_km": 15,
+    "calories": 120,
+    "notes": "edge: unrealistic speed"
+  },
+  {
+    "id": 39,
+    "date": "2026-11-25",
+    "activity": "Hiking",
+    "duration_min": 600,
+    "distance_km": 50,
+    "calories": 2900,
+    "notes": "boundary: max duration"
+  },
+  {
+    "id": 40,
+    "date": "2026-11-25",
+    "activity": "Walking",
+    "duration_min": 1,
+    "distance_km": 0,
+    "calories": 4,
+    "notes": "boundary: min duration"
+  }
+]
